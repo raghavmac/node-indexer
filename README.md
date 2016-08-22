@@ -1,4 +1,4 @@
-# indexcher
+# node-indexer
 
 A Node.js sample using redis and elasticsearch for indexing &amp; searching
 
@@ -6,8 +6,8 @@ A Node.js sample using redis and elasticsearch for indexing &amp; searching
 Install the dependencies and start the server.
 
 ```sh
-$ git clone https://github.com/raghavmac/indexcher.git
-$ cd indexcher
+$ git clone https://github.com/raghavmac/node-indexer.git
+$ cd node-indexer
 $ npm install
 $ npm start
 ```
